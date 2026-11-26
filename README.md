@@ -21,7 +21,8 @@
 ## Video 7: [PostgreSQL to Data Lakehouse (Databricks Community)](https://youtu.be/your-video-link-7)
 [Watch Video 7](https://youtu.be/your-video-link-7)
 
-👥 Group Members
+
+# 👥 Group Members
 
 Member 1 – Chhay Kongkea
 
