@@ -1,4 +1,4 @@
-# 🎥 Video Collection
+# 🎥 Video Collection Group 6
 
 ## Video 1: [Oracle to PostgreSQL](https:)
 [Watch Video 1](https:)
@@ -20,3 +20,13 @@
 
 ## Video 7: [PostgreSQL to Data Lakehouse (Databricks Community)](https://youtu.be/your-video-link-7)
 [Watch Video 7](https://youtu.be/your-video-link-7)
+
+👥 Group Members
+
+Member 1 – Chhay Kongkea
+
+Member 2 – Leang Lyjing
+
+Member 3 – Chhay Davin
+
+Member 4 – Soeurt Bomnorng
