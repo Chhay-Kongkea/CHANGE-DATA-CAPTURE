@@ -1,7 +1,7 @@
 # 🎥 Video Collection Group 6
 
-## Video 1: [Oracle to PostgreSQL](https:)
-[Watch Video 1](https:)
+## Video 1: [Oracle to PostgreSQL](https://youtu.be/0MxxwaD9lBs)
+[Watch Video 1](https://youtu.be/0MxxwaD9lBs)
 
 ## Video 2: [CSV to PostgreSQL](https:)
 [Watch Video 2](https:)
