@@ -1,33 +1,138 @@
-# 🎥 Video Collection Group 6
+ <div align="center">
 
-## Video 1: [Oracle to PostgreSQL](https://youtu.be/0MxxwaD9lBs)
-[Watch Video 1](https://youtu.be/0MxxwaD9lBs)
+# VIDEO COLLECTION
 
-## Video 2: [CSV to PostgreSQL](https://youtu.be/vXW6qawMguk)
-[Watch Video 2](https://youtu.be/vXW6qawMguk)
+### GROUP 06 — DATA INTEGRATION & CDC
 
-## Video 3: [PostgreSQL to MongoDB](https://youtu.be/gisZzwYEZbA?si=40kLh0mnHfVMWvgJ)
-[Watch Video 3](https://youtu.be/gisZzwYEZbA?si=40kLh0mnHfVMWvgJ)
+*Connecting Databases · Streaming Data · Modern Data Platforms*
 
-## Video 4: [PostgreSQL to Elasticsearch](https://youtu.be/AFgG6Fj_tX4?si=qnl7wgHucbcTsfCa)
-[Watch Video 4](https://youtu.be/AFgG6Fj_tX4?si=qnl7wgHucbcTsfCa)
+---
 
-## Video 5: [PostgreSQL to Oracle](https:)
-[Watch Video 5](https:)
+</div>
 
-## Video 6: [PostgreSQL to Data Lakehouse](https://youtu.be/tgDpKLKj6sc?si=6dgSj04eYWW15R3M)
-[Watch Video 6](https://youtu.be/tgDpKLKj6sc?si=6dgSj04eYWW15R3M)
+## Video Showcase
 
-## Video 7: [PostgreSQL to Data Lakehouse (Databricks Community)](https://www.youtube.com/watch?v=6t6Vs3lrkkY)
-[Watch Video 7](https://www.youtube.com/watch?v=6t6Vs3lrkkY)
+A collection of seven technical demonstrations covering database integration, Change Data Capture (CDC), and modern data platforms.
 
+### 01 — Oracle to PostgreSQL
 
-# 👥 Group Members
+**Oracle to PostgreSQL Data Synchronization Using Debezium and Apache Kafka**
 
-Member 1 – Chhay Kongkea
+<div align="center">
+<a href="https://youtu.be/L5By21rl2cY">
+<img src="https://img.youtube.com/vi/L5By21rl2cY/maxresdefault.jpg" width="720" alt="Oracle to PostgreSQL">
+</a>
 
-Member 2 – Leang Lyjing
+[Watch Demonstration](https://youtu.be/L5By21rl2cY)
+</div>
 
-Member 3 – Chhay Davin
+---
 
-Member 4 – Soeurt Bomnorng
+### 02 — CSV to PostgreSQL
+
+**CSV to PostgreSQL Data Ingestion Using Apache Kafka & JDBC Sink Connector**
+
+<div align="center">
+<a href="https://www.youtube.com/watch?v=kyXVX0cc_Xk">
+<img src="https://img.youtube.com/vi/kyXVX0cc_Xk/maxresdefault.jpg" width="720" alt="CSV to PostgreSQL">
+</a>
+
+[Watch Demonstration](https://www.youtube.com/watch?v=kyXVX0cc_Xk)
+</div>
+
+---
+
+### 03 — PostgreSQL to MongoDB
+
+**Relational to NoSQL Integration**
+
+<div align="center">
+<a href="https://youtu.be/gisZzwYEZbA">
+<img src="https://img.youtube.com/vi/gisZzwYEZbA/maxresdefault.jpg" width="720" alt="PostgreSQL to MongoDB">
+</a>
+
+[Watch Demonstration](https://youtu.be/gisZzwYEZbA)
+</div>
+
+---
+
+### 04 — PostgreSQL to Elasticsearch
+
+**Database to Search Engine Integration**
+
+<div align="center">
+<a href="https://youtu.be/AFgG6Fj_tX4">
+<img src="https://img.youtube.com/vi/AFgG6Fj_tX4/maxresdefault.jpg" width="720" alt="PostgreSQL to Elasticsearch">
+</a>
+
+[Watch Demonstration](https://youtu.be/AFgG6Fj_tX4)
+</div>
+
+---
+
+### 05 — PostgreSQL to Oracle
+
+**Cross-Database Integration**
+
+*Video coming soon.*
+
+---
+
+### 06 — PostgreSQL to Data Lakehouse
+
+**Modern Data Lakehouse Integration**
+
+<div align="center">
+<a href="https://youtu.be/tgDpKLKj6sc">
+<img src="https://i.ytimg.com/vi/tgDpKLKj6sc/hqdefault.jpg"
+     width="720"
+     alt="PostgreSQL to Data Lakehouse">
+</a>
+
+[Watch Demonstration](https://youtu.be/tgDpKLKj6sc)
+</div>
+
+---
+
+### 07 — PostgreSQL to Data Lakehouse (Databricks Community)
+
+**Cloud-Based Data Platform Integration**
+
+<div align="center">
+<a href="https://www.youtube.com/watch?v=6t6Vs3lrkkY">
+<img src="https://i.ytimg.com/vi/6t6Vs3lrkkY/hqdefault.jpg"
+     width="720"
+     alt="PostgreSQL to Data Lakehouse (Databricks Community)">
+</a>
+
+[Watch Demonstration](https://www.youtube.com/watch?v=6t6Vs3lrkkY)
+</div>
+
+---
+
+## Our Team
+
+**Group 06 Members**
+
+| No. | Member Name |
+|:---:|---|
+| 01 | Chhay Kongkea |
+| 02 | Leang Lyjing |
+| 03 | Chhay Davin |
+| 04 | Soeurt Bomnorng |
+
+---
+
+<div align="center">
+
+## LEARN · BUILD · INTEGRATE
+
+**Group 06 — Data Engineering Project**
+
+*Exploring modern database technologies and data integration solutions.*
+
+---
+
+**Thank you for watching our demonstrations.**
+
+</div>  
